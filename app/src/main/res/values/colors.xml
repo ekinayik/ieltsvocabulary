@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bla_200">#FF000000</color>
+    <color name="bla_500">#FF000000</color>
+    <color name="bla_700">#FF000000</color>
+    <color name="blu_200">#FF010250</color>
+    <color name="blu_700">#FF010250</color>
+    <color name="bla">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
